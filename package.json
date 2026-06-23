@@ -1,0 +1,30 @@
+{
+  "name": "projmanagement",
+  "version": "1.0.0",
+  "description": "a project managment application for beginners",
+  "keywords": [
+    "fullstack",
+    "course",
+    "backend",
+    "API",
+    "creation"
+  ],
+  "homepage": "https://github.com/shreyashBhosale11/Project_managment_platform_fullStack#readme",
+  "bugs": {
+    "url": "https://github.com/shreyashBhosale11/Project_managment_platform_fullStack/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shreyashBhosale11/Project_managment_platform_fullStack.git"
+  },
+  "license": "ISC",
+  "author": "Shreyash Bhosale",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "devDependencies": {
+    "prettier": "3.8.4"
+  }
+}
